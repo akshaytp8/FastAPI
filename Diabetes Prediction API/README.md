@@ -33,4 +33,18 @@ The prediction result will be displayed in the terminal.
 
 ## Workflow
 
-User Input ↓ API Request ↓ FastAPI ↓ Pydantic Validation ↓ StandardScaler ↓ SVM (Support Vector Machine) Model ↓ Diabetes Prediction ↓ API Response
+User Input 
+
+API Request 
+
+FastAPI 
+
+Pydantic Validation 
+
+StandardScaler 
+
+SVM (Support Vector Machine) Model 
+
+Diabetes Prediction 
+
+API Response
