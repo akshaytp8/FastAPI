@@ -34,13 +34,18 @@ The prediction result will be displayed in the terminal.
 ## Workflow
 
 User Input
+
     ↓
 FastAPI
+
     ↓
 StandardScaler
+
     ↓
 SVM Model
+
     ↓
 Prediction
+
     ↓
 Diabetic / Not Diabetic
